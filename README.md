@@ -1,2 +1,2 @@
-#  Capstone Project
-Basic Portfolio using HTML
+#  Capstone Project- Basic Portfolio
+
