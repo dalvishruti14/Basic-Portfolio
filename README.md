@@ -1,2 +1,2 @@
-#  Capstone Project- Basic Portfolio
+#  Capstone Project- Basic Resume
 
